@@ -1,2 +1,2 @@
-abc
-deff
+* abc
+* deff
